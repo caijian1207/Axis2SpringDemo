@@ -1,0 +1,2 @@
+--bin目录下执行
+wsdl2java -uri webService.wsdl -p com.zeychen.axis2.client.stub -o stub
